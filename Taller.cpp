@@ -85,4 +85,3 @@ void imprimir_grafo(Grafo* grafo){
         cout<<endl;
     }
 }
-//readyyy
